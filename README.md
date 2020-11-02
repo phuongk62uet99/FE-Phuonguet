@@ -11,3 +11,8 @@ nhưng làm thêm nhớ mật khẩu và lấy lại mật khẩu không
 
 4) Trang checkout
 => Tiến làm nốt đi t sửa được 1/3 rồi 
+
+5) Trang product-details
+Chưa chỉnh sửa được thông tin sách cần hiển thị những thông tin gì 
+
+
